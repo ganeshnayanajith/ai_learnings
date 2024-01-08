@@ -1,0 +1,4 @@
+CNN - Convolutional Neural Networks
+ReLU - Rectified Linear Unit
+
+Grand Father - Yann Lecun
